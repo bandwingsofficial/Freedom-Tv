@@ -1,0 +1,8 @@
+{
+  "name": "Freedom TV Kannada",
+  "description": "A future-proof, high-traffic Kannada regional news platform featuring live TV, ad-readiness, and a comprehensive role-based CMS.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
